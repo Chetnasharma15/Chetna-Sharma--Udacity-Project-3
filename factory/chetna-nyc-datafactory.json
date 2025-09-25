@@ -1,0 +1,9 @@
+{
+	"name": "chetna-nyc-datafactory",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3be65d72-7196-4a92-a355-cc3d5e26db36",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
